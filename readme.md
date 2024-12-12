@@ -1,4 +1,4 @@
-![thumbnail][./media/thumb.png]
+![thumbnail][/media/thumb.jpeg]
 # On the Computing Power of Minecraft Redstone
 - Many of my friends had mentioned to me that they didn't quite understand digital logic
 - We all grew up on Minecraft
